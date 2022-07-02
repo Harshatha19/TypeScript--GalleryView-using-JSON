@@ -1,0 +1,1 @@
+# TypeScript--GalleryView-using-JSON
