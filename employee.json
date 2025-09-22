@@ -1,0 +1,85 @@
+{
+    
+    "employees": [
+
+      {
+        "image":"Harshatha.jpeg",
+        "name": "Harshatha S",
+        "designation": "Trainee",
+        "yearofexperience": 1,
+        "project": "Angular"
+      },
+      {
+        "image":"Anusha.jpg",
+        "name": "Anusha",
+        "designation": "Trainee",
+        "yearofexperience": 1,
+        "project": "Angular"
+      },
+     
+      {
+        "image":"Ramandeep.jpg",
+        "name": "Ramandeep S",
+        "designation": "Trainee",
+        "yearofexperience": 2,
+        "project": "Dev Ops"
+
+      },
+      {
+        "image":"Sanjit.jpg",
+        "name": "Sanjith Kumar",
+        "designation": "Trainee",
+        "yearofexperience": 1,
+        "project": "React"
+
+      },
+      {
+        "image":"Nitish.jpg",
+        "name": "Nitish Rathi",
+        "designation": "Trainee",
+        "yearofexperience": 1,
+        "project": "NODEJS"
+      },
+      {
+        "image":"Parashram.jpg",
+        "name": "Parshram Gore",
+        "designation": "Trainee",
+        "yearofexperience": 1,
+        "project": "REACT"
+
+      },{
+        
+        "image":"Spoorthi.jpg",
+        "name": "Spoorthi",
+        "designation": "Trainee",
+        "yearofexperience": 1,
+        "project": "IOS"
+      },{
+      "image":"Shivani.jpg",
+      "name": "Shivani",
+      "designation": "Trainee",
+      "yearofexperience": 1,
+      "project": "Android"
+      },{
+      "image":"Spandana.jpg",
+      "name": "Spandana",
+      "designation": "Trainee",
+      "yearofexperience": 1,
+      "project": "PHP"
+      },
+      {
+        "image":"Supriya.jpg",
+        "name": "Supriya",
+        "designation": "Trainee",
+        "yearofexperience": 1,
+        "project": ".NET"
+        },
+        {
+          "image":"Venkata.jpg",
+          "name": "Venkata",
+          "designation": "Trainee",
+          "yearofexperience": 1,
+          "project": "Marketing"
+          }
+    ]
+  }
